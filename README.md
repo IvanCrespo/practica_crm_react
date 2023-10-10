@@ -10,4 +10,7 @@ Currently, two official plugins are available:
 # Instalar JSON Server
 
 Comando para su instalación:
-- npm install -g json-server 
+- npm install -g json-server
+
+Correr servidor local:
+- json-server --watch db.json
